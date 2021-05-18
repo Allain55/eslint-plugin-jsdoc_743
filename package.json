@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-jsdoc_743",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx eslint -c eslint.config.js index.js --fix"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.26.0",
+    "eslint-plugin-jsdoc": "^34.7.0"
+  }
+}
